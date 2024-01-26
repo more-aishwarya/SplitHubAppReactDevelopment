@@ -83,7 +83,7 @@ export default function LoginScreen({ navigation }) {
     <View style={[styles.container, styles.loginContainer]}>
       <Text style={styles.loginHeadertitle}>SplitHub</Text>
       <Text style={styles.subHeader}>
-        A simple money split app for everyday use
+      money split app for everyday use
       </Text>
       <Image source={splitGif} style={{ width: 200, height: 200 }} />
       <TextInput
